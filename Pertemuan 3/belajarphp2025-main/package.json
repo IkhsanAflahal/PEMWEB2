@@ -1,0 +1,15 @@
+{
+  "name": "belajarphp2025-main",
+  "version": "1.0.0",
+  "description": "belajar php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^4.0.9"
+  }
+}
